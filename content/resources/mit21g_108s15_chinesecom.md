@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding Writing Assignments.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-108-chinese-ii-streamlined-spring-2015/9025e2480da55f851a0ceaf74ad0daed_MIT21G_108S15_ChineseCom.pdf
+file: /media/courses/21g-108-chinese-ii-streamlined-spring-2015/9025e2480da55f851a0ceaf74ad0daed_MIT21G_108S15_ChineseCom.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: "\u600E\u9EBC\u5BEB\u6587\u7AE0 (\u4E00) / \u600E\u9EBD\u5199\u6587\u7AE0(\u4E00\
   ) / How to Write Chinese Composition Part I"

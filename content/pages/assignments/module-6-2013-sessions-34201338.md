@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2e248f7a-7cea-4043-bdfa-3ea385e38941
 title: "Module 6 \u2013 Sessions 34\u201338"
 uid: 6a6cd460-f53a-f080-5f2b-1a40b09d5e0c

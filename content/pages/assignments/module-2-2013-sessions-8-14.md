@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2e248f7a-7cea-4043-bdfa-3ea385e38941
 title: "Module 2 \u2013 Sessions 8-14"
 uid: 9cff99dc-51b3-889f-afda-38c2c1de9cea

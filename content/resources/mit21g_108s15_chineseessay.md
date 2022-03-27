@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1a1feffb-eefd-09b4-bfbd-3630e69645be
 resourcetype: Document
 title: "\u600E\u9EBC\u5BEB\u6587\u7AE0 (\u4E00) / \u600E\u9EBD\u5199\u6587\u7AE0(\u4E00\
   ) / How to Write Chinese Composition  Part II"

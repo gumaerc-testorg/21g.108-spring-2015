@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1a1feffb-eefd-09b4-bfbd-3630e69645be
 resourcetype: Document
 title: Characteristics of Animal Signs
 uid: 461e616d-e165-b5eb-cb82-732f68998800

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1a1feffb-eefd-09b4-bfbd-3630e69645be
 resourcetype: Document
 title: MIT21G_108S15_Student-ft.pdf
 uid: 85629549-f3fe-67cf-dc4f-44425d94fb4f

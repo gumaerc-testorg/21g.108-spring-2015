@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1a1feffb-eefd-09b4-bfbd-3630e69645be
 resourcetype: Document
 title: MIT21G_108S15_mengz-jt.pdf
 uid: 197f62e7-f8a1-32a7-3a6f-ce71cfb0640d

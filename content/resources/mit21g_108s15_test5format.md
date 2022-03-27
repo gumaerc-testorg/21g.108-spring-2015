@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1a1feffb-eefd-09b4-bfbd-3630e69645be
 resourcetype: Document
 title: Test 5 on Daxue Yuwen Lessons 19-20
 uid: a4598d7e-b8dd-ad13-11fd-3cae9c04244d

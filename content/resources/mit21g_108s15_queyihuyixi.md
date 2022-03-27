@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1a1feffb-eefd-09b4-bfbd-3630e69645be
 resourcetype: Document
 title: "Questions for \u201C\u8303\u8DD1\u8DD1 PK \u90ED\u8DF3\u8DF3\u201D"
 uid: 93fcfa99-b0e2-2359-a6e1-f396e5b948ff

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1a1feffb-eefd-09b4-bfbd-3630e69645be
 resourcetype: Document
 title: Calligraphy Grid for Writing Assignments
 uid: 4b1499ec-de83-6c01-c69e-bde6c747ba12

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides instructions on completing the speaking assignments
+  using the website of Lingt.com.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

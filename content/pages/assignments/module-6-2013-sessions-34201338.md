@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides details of all assignments and in-class activities
+  in module 5 from sessions 34 to 38.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: 6a6cd460-f53a-f080-5f2b-1a40b09d5e0c
 
 \[Oh, China!\] = Chou, Chih-Ping, P. Link  and X. Wang. _Oh, China!: An Elementary Reader of Modern Chinese for Advanced Beginners_. Princeton University Press, 2011. ISBN: 9780691153087. \[Preview with [Google Books](http://books.google.com/books?id=XaXVAAAAQBAJ&printsec=frontcover)\]
 
-Each assignment or any additional files referenced in the table is available in the [Study Materials]({{< baseurl >}}/pages/study-materials) section,  except the audio files. These files are not provided here due to copyright restrictions.
+Each assignment or any additional files referenced in the table is available in the {{% resource_link 1a1feffb-eefd-09b4-bfbd-3630e69645be "Study Materials" %}} section,  except the audio files. These files are not provided here due to copyright restrictions.
 
 To complete writing assignments, please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy grid.
 

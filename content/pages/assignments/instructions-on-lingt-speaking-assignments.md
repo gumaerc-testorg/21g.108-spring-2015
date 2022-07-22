@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This page provides instructions on completing the speaking assignments
+  using the website of Lingt.com.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2e248f7a-7cea-4043-bdfa-3ea385e38941
 title: Instructions on Lingt Speaking Assignments
 uid: 0c522bbf-2bbc-f678-3bee-e3ae19bf7a7d

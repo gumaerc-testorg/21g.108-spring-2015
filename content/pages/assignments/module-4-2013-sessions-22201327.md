@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This page provides details of all assignments and in-class activities
+  in module 4 from sessions 22 to 27.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2e248f7a-7cea-4043-bdfa-3ea385e38941
 title: "Module 4 \u2013 Sessions 22\u201327"
 uid: 1807fbb1-e83f-d3f2-8931-2e46cbf55a29
@@ -8,7 +14,7 @@ uid: 1807fbb1-e83f-d3f2-8931-2e46cbf55a29
 
 \[PC\] = A simplified character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese, Simplified Character: Vol 2. (__Daxue Yuwen / 大學語文/大学语文)._ Columbia University Press, 2004. ISBN: 9780231135856; or A Complex character version: Li, Duanduan, et al. _A Primer for Advanced Beginners of Chinese Vol 2._ (_Daxue Yuwen_ __/ 大學語文/大学语文_)_. Columbia University Press, 2002. ISBN: 9780231125574.
 
-Each assignment or any additional files referenced in the table is available in the [Study Materials]({{< baseurl >}}/pages/study-materials) section, except the audio files. These files are not provided here due to copyright restrictions.
+Each assignment or any additional files referenced in the table is available in the {{% resource_link 1a1feffb-eefd-09b4-bfbd-3630e69645be "Study Materials" %}} section, except the audio files. These files are not provided here due to copyright restrictions.
 
 To complete writing assignments, please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy grid.
 
@@ -72,7 +78,7 @@ Writing Assignments:
 1.  Handwrite a coherent paragraph with all the entries from "Sentence Patterns and Word Usage." on pp. 126–7 on a piece paper and hand them in in class.
 2.  (Handwrite) Write a composition of no less than 180 characters on Apple (苹果 / 蘋果), but the content has to be related to your _Major_. It could be from a research point of view or marking point of view or the idea of apply in your field.
 
-For example, if you are computer major, write the essay on Apply that could relate to your major. You might need to use new vocabulary and there are several online dictionaries in [Tools / Resources]({{< baseurl >}}/pages/tools-and-resources). For example, [海词](http://dict.cn).
+For example, if you are computer major, write the essay on Apply that could relate to your major. You might need to use new vocabulary and there are several online dictionaries in {{% resource_link 7386c1f2-653a-8c0f-935f-5674e8c65c7e "Tools / Resources" %}}. For example, [海词](http://dict.cn).
 
 It is not a research paper but a description one that is related to your own studies.
 
@@ -167,7 +173,7 @@ Use your imagination to create a drink and try to sell it to any target groups. 
 
 You can bring any props. Only one or two slides of PowerPoint is acceptable if you want to use any slide.
 
-\*The Grading criteria is provided in [Syllabus]({{< baseurl >}}/pages/syllabus).
+\*The Grading criteria is provided in {{% resource_link f3a9b87f-ae46-19ac-c22e-26e53776f5b9 "Syllabus" %}}.
 
 
 {{< tdclose >}}

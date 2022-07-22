@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, Chinese characters and Pinyin, required learning materials, recommended
+  dictionaries, classroom activities, writing, grading, the end-of-term essay, advice
+  on approaching the class, and the grading rubric for presentations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f3a9b87f-ae46-19ac-c22e-26e53776f5b9
 ---
@@ -43,7 +49,7 @@ Recommended Dictionaries
 
 \[Note: This dictionary has more entries than the previous dictionary, and is with English-to-Chinese.\]
 
-5.  Many online resources, available in [Tools / Resources]({{< baseurl >}}/pages/tools-and-resources).
+5.  Many online resources, available in {{% resource_link 7386c1f2-653a-8c0f-935f-5674e8c65c7e "Tools / Resources" %}}.
 
 Class
 -----
@@ -128,7 +134,7 @@ Group Presentations
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-End-of-term Essay (a 2-page Double-spaced typewritten paper using Microsoft Word; 16-point font _Or_ no less than 4 full pages, using the calligraphy sheet provided in [Study Materials]({{< baseurl >}}/pages/study-materials) instructions on how to input Chinese characters using _pinyin_ is available in [Tools and Resources]({{< baseurl >}}/pages/tools-and-resources).)
+End-of-term Essay (a 2-page Double-spaced typewritten paper using Microsoft Word; 16-point font _Or_ no less than 4 full pages, using the calligraphy sheet provided in {{% resource_link 1a1feffb-eefd-09b4-bfbd-3630e69645be "Study Materials" %}} instructions on how to input Chinese characters using _pinyin_ is available in {{% resource_link 7386c1f2-653a-8c0f-935f-5674e8c65c7e "Tools and Resources" %}}.)
 {{< tdclose >}}
 {{< tdopen >}}
 5%
@@ -168,7 +174,7 @@ Grading (5% of class grade):
 
 Due: By the last day of classes. E-attachments are accepted. E-submissions will be acknowledged by email. Early submissions are welcome.
 
-Length: No less than 2 full double-spaced typewritten pages using Word with 16-point font and 1-inch margins, **Or** no less than 4 full pages using the calligraphy sheet. Do not try to fill up the pages by adding spaces between characters or lines—the content is more important. Learn to install Chinese IME (Input Method Editor) and input Chinese characters (find the link under the section of [Tools and Resources]({{< baseurl >}}/pages/tools-and-resources) ) with pinyin if you do not already know how.
+Length: No less than 2 full double-spaced typewritten pages using Word with 16-point font and 1-inch margins, **Or** no less than 4 full pages using the calligraphy sheet. Do not try to fill up the pages by adding spaces between characters or lines—the content is more important. Learn to install Chinese IME (Input Method Editor) and input Chinese characters (find the link under the section of {{% resource_link 7386c1f2-653a-8c0f-935f-5674e8c65c7e "Tools and Resources" %}} ) with pinyin if you do not already know how.
 
 Topic: You have three options.  
 Option 1: Cóng Zhongguórén Zhòngshì de Pǐn'gé Kàn ZhongGuó Wénhuà  

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This page provides details of all assignments and in-class activities
+  in module 2 from sessions 8 to 14.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2e248f7a-7cea-4043-bdfa-3ea385e38941
 title: "Module 2 \u2013 Sessions 8-14"
 uid: 9cff99dc-51b3-889f-afda-38c2c1de9cea
@@ -8,7 +14,7 @@ uid: 9cff99dc-51b3-889f-afda-38c2c1de9cea
 
 \[PC\] = A simplified character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese, Simplified Character: Vol 2. (__Daxue Yuwen / 大學語文/大学语文)._ Columbia University Press, 2004. ISBN: 9780231135856; or A Complex character version: Li, Duanduan, et al. _A Primer for Advanced Beginners of Chinese Vol 2._ (_Daxue Yuwen_ __/ 大學語文/大学语文_)_. Columbia University Press, 2002. ISBN: 9780231125574.
 
-Each assignment or any additional files referenced in the table is available in the [Study Materials]({{< baseurl >}}/pages/study-materials) section, except the audio files. These files are not provided here due to copyright restrictions.
+Each assignment or any additional files referenced in the table is available in the {{% resource_link 1a1feffb-eefd-09b4-bfbd-3630e69645be "Study Materials" %}} section, except the audio files. These files are not provided here due to copyright restrictions.
 
 To complete writing assignments, please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy grid.
 
@@ -159,7 +165,7 @@ Study Lesson 14 Required Characters
 
 We will start reading extra materials this semester. The content is challenging but don't be overwhelmed by it. I don't expect you to master it right away. The goal is to expose you to material relevant to your life and test your reading skills. We will not have any tests on these materials but a presentation. Following the steps below:
 
-1.  Download the lesson of "Online Socializing (網上交友/网上交友)" from [Study Materials]({{< baseurl >}}/pages/study-materials). Choose your own character version.
+1.  Download the lesson of "Online Socializing (網上交友/网上交友)" from {{% resource_link 1a1feffb-eefd-09b4-bfbd-3630e69645be "Study Materials" %}}. Choose your own character version.
 2.  Find the recording of the text of "Online Socializing." \[Note: This recording is not provided due to copyright restrictions\].
 3.  Listen to the recording 2–3 times. Do not look at the text the first time when you listen and see how much you understand.
 4.  Listen to the recording with the text the second or the third time. Circle the vocab that you don't know.
@@ -196,7 +202,7 @@ Get prepared for the group presentation (> 6 minutes), PowerPoint slides are req
 3.  When you present it, don't read from your PowerPoint Slides. Pretend that you are an agent who is trying to introduce this person to his / her potential friend. Everyone needs to present.
 4.  Be ready for questions from your classmates.
 
-\*The grading criteria are listed in the [Syllabus]({{< baseurl >}}/pages/syllabus). Send your PowerPoint Slides to your instructor and indicate who is responsible for which part.
+\*The grading criteria are listed in the {{% resource_link f3a9b87f-ae46-19ac-c22e-26e53776f5b9 "Syllabus" %}}. Send your PowerPoint Slides to your instructor and indicate who is responsible for which part.
 
 
 {{< tdclose >}}

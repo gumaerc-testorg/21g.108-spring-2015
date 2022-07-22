@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This page provides details of all assignments and in-class activities
+  in module 3 from sessions 15 to 21.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2e248f7a-7cea-4043-bdfa-3ea385e38941
 title: "Module 3 \u2013 Sessions 15-21"
 uid: 7e1321cc-0a50-6347-9477-a1c8053a5a0f
@@ -8,7 +14,7 @@ uid: 7e1321cc-0a50-6347-9477-a1c8053a5a0f
 
 \[PC\] = A simplified character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese, Simplified Character: Vol 2. (__Daxue Yuwen / 大學語文/大学语文)._ Columbia University Press, 2004. ISBN: 9780231135856; or A Complex character version: Li, Duanduan, et al. _A Primer for Advanced Beginners of Chinese Vol 2._ (_Daxue Yuwen_ __/ 大學語文/大学语文_)_. Columbia University Press, 2002. ISBN: 9780231125574.
 
-Each assignment or any additional files referenced in the table is available in the [Study Materials]({{< baseurl >}}/pages/study-materials) section, except the audio files. These files are not provided here due to copyright restrictions.
+Each assignment or any additional files referenced in the table is available in the {{% resource_link 1a1feffb-eefd-09b4-bfbd-3630e69645be "Study Materials" %}} section, except the audio files. These files are not provided here due to copyright restrictions.
 
 To complete writing assignments, please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy grid.
 
@@ -203,7 +209,7 @@ Get prepared for the group presentation (> 5 minutes). No PowePoint presentation
 2.  Add some main ideas of Confucianism that you have learned in your skit. You need to use at least 5 new words from the vocabulary of the text.
 3.  Provide an ending to the play. The length will be no less than 150 characters.
 
-\*The Grading criteria are provided in the [Syllabus]({{< baseurl >}}/pages/syllabus). Since this is a skit, please don't read your script.
+\*The Grading criteria are provided in the {{% resource_link f3a9b87f-ae46-19ac-c22e-26e53776f5b9 "Syllabus" %}}. Since this is a skit, please don't read your script.
 
 \*Send your new ending in a typed form to your instructor.
 

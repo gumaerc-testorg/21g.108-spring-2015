@@ -71,7 +71,7 @@ Write on your book the answers to the questions in the exercises on pp. 5 and 7�
 
 5.  Read Dialogue on pp. 8–9 (listen to the audio file).
 
-Browse the web pages on Shengxiao, [农历网](http://www.nongli.com/item5/) or [生肖星座网](http://web.archive.org/web/20050828142809/http://www.mypcera.com/xin/) Do they apply to yourself or your family members? In what way?
+Browse the web pages on Shengxiao, {{% resource_link "94832b90-a760-45ce-bcab-1b4a0401632c" "农历网" %}} or {{% resource_link "c6b39132-ff65-46d6-b697-7c3699374f65" "生肖星座网" %}} Do they apply to yourself or your family members? In what way?
 
 FYI: Copy and paste a text into the Chinese Annotation Tool (find it in the Tools / Resources section), and you are one click away from the fully glossed text.
 
@@ -129,7 +129,7 @@ Check Lingt Speaking Assignment Two and complete it before the class.
 3.  Read the text on pp. 23–24 (listen to the audio files). Write on your book the answer to the questions in the exercises on pp. 23 and 25.
 4.  Read Dialogue on pp. 26–27 (listen to the audio files).
 
-Browse the web pages on [Spring Festival Customs](https://web.archive.org/web/20090114043847/http://www.chunjie.net.cn/znew/ms2.aspx) or the [Traditional Character](https://web.archive.org/web/20120724093720/http://www.gio.gov.tw/info/festival_c/html/spring.htm) website Does your family practice these customs? Study Lesson 11 required characters.
+Browse the web pages on {{% resource_link "5b7a1f21-91fb-4e09-8d53-bba5410c3e11" "Spring Festival Customs" %}} or the {{% resource_link "54e6c233-ab6a-413c-9bc6-b4387871ac68" "Traditional Character" %}} website Does your family practice these customs? Study Lesson 11 required characters.
 
 
 {{< tdclose >}}

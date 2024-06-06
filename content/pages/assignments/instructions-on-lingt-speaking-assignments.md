@@ -12,7 +12,7 @@ title: Instructions on Lingt Speaking Assignments
 uid: 0c522bbf-2bbc-f678-3bee-e3ae19bf7a7d
 ---
 
-To complete the speaking assignments on {{% resource_link "5f80d1a5-63a8-40ac-8afd-257024a33302" "Lingt" %}}, you will use the textbook of _A Primer for Advanced Beginners of Chinese: Da Xue Yu Wen_. Columbia University Press, 2004. ISBN: 9780231123839 following the instructions provided below.
+To complete the speaking assignments on [Lingt](https://www.lingt.com/), you will use the textbook of _A Primer for Advanced Beginners of Chinese: Da Xue Yu Wen_. Columbia University Press, 2004. ISBN: 9780231123839 following the instructions provided below.
 
 First, read the text from each assigned lesson in the textbook. You are welcome to add your own opinions about the text in addition to your reading.
 

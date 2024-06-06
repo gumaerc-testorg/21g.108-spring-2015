@@ -111,7 +111,7 @@ Check Lingt Speaking Assignment Four and complete it before the class.
 2.  Study the Vocabulary (listen to the audio files). Learn the Lesson 14 required characters by heart. Make sure you know the other Lesson 14 characters by sight.
 3.  Read the text on pp. 61–62 (listen to the Audio files). Write on your book the answer to the questions in the exercises on pp. 63–64.
 
-Browse the {{% resource_link "ce1b27c1-0151-4d07-9124-e9074da777ad" "Shaolin Temple Official Website" %}} with their martial arts "secrets" and the {{% resource_link "ef8d8ad4-1914-4657-af1d-39621e6600fb" "Official Web Site of Shaolin Temple's Overseas Headquarters" %}} in Flushing, NY.
+Browse the [Shaolin Temple Official Website](http://www.shaolin.org.cn) with their martial arts "secrets" and the [Official Web Site of Shaolin Temple's Overseas Headquarters](http://www.shaolinoverseas.com/) in Flushing, NY.
 
 5.  Read Dialogue on pp. 65–66 (listen to the audio files).
 

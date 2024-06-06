@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Supporting Files in Daxue
   Yuwen.
 file: /courses/21g-108-chinese-ii-streamlined-spring-2015/cd3ead1cf19575e56463657bdde61e26_MIT21G_108S15_mengz-ft.pdf
+file_size: 763605
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

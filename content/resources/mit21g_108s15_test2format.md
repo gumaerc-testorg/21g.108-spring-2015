@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Test Preparation.
-file: /courses/21g-108-chinese-ii-streamlined-spring-2015/1ad375fcdfc095d64d370715f5f8b542_MIT21G_108S15_Test2Format.pdf
+file: /ol-ocw-studio-app/courses/21g-108-chinese-ii-streamlined-spring-2015/1ad375fcdfc095d64d370715f5f8b542_MIT21G_108S15_Test2Format.pdf
 file_size: 92900
 file_type: application/pdf
 learning_resource_types: []

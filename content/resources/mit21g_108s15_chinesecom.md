@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Writing Assignments.
-file: /courses/21g-108-chinese-ii-streamlined-spring-2015/9025e2480da55f851a0ceaf74ad0daed_MIT21G_108S15_ChineseCom.pdf
+file: /ol-ocw-studio-app/courses/21g-108-chinese-ii-streamlined-spring-2015/9025e2480da55f851a0ceaf74ad0daed_MIT21G_108S15_ChineseCom.pdf
 file_size: 659009
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Supporting Files in Daxue
   Yuwen.
-file: /ol-ocw-studio-app/courses/21g-108-chinese-ii-streamlined-spring-2015/cd7894545bbe6156a6f5f39051ee309d_MIT21G_108S15_lunyu-jt.pdf
+file: /courses/21g-108-chinese-ii-streamlined-spring-2015/cd7894545bbe6156a6f5f39051ee309d_MIT21G_108S15_lunyu-jt.pdf
 file_size: 741706
 file_type: application/pdf
 learning_resource_types: []

@@ -72,7 +72,7 @@ Preview \[PC\] Lesson 19:
 Writing Assignments:
 
 1.  Handwrite a coherent paragraph with all the entries from "Sentence Patterns and Word Usage" on pp. 166–7 on a piece paper and hand them in in class.
-2.  Handwrite / Write a composition of no less than 180 characters on a theory or an object that you think has had the greatest impact on the field of your _Major_. If you already wrote about Apple computer in your last essay extensively, you should not repeat it in this essay. First briefly outline its history or the historical context. Then explain its impact. Pay special attention to the over-all structure of your composition and use as many new words and sentence patterns as possible. You might need to use new vocabulary and there are several online dictionary provided in {{% resource_link 7386c1f2-653a-8c0f-935f-5674e8c65c7e "Tools and Resources" %}}. For example, [海词](http://dict.cn/).
+2.  Handwrite / Write a composition of no less than 180 characters on a theory or an object that you think has had the greatest impact on the field of your _Major_. If you already wrote about Apple computer in your last essay extensively, you should not repeat it in this essay. First briefly outline its history or the historical context. Then explain its impact. Pay special attention to the over-all structure of your composition and use as many new words and sentence patterns as possible. You might need to use new vocabulary and there are several online dictionary provided in {{% resource_link 7386c1f2-653a-8c0f-935f-5674e8c65c7e "Tools and Resources" %}}. For example, {{% resource_link "c50398f1-1395-431c-9452-c357d86328c5" "海词" %}}.
 
 
 {{< tdclose >}}

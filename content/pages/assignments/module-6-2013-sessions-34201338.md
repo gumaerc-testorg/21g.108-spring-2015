@@ -12,7 +12,7 @@ title: "Module 6 \u2013 Sessions 34\u201338"
 uid: 6a6cd460-f53a-f080-5f2b-1a40b09d5e0c
 ---
 
-\[Oh, China!\] = Chou, Chih-Ping, P. Link  and X. Wang. _Oh, China!: An Elementary Reader of Modern Chinese for Advanced Beginners_. Princeton University Press, 2011. ISBN: 9780691153087. \[Preview with [Google Books](http://books.google.com/books?id=XaXVAAAAQBAJ&printsec=frontcover)\]
+\[Oh, China!\] = Chou, Chih-Ping, P. Link  and X. Wang. _Oh, China!: An Elementary Reader of Modern Chinese for Advanced Beginners_. Princeton University Press, 2011. ISBN: 9780691153087. \[Preview with {{% resource_link "78737d17-55de-4881-b392-ffd7a20959ba" "Google Books" %}}\]
 
 Each assignment or any additional files referenced in the table is available in the {{% resource_link 1a1feffb-eefd-09b4-bfbd-3630e69645be "Study Materials" %}} section,  except the audio files. These files are not provided here due to copyright restrictions.
 

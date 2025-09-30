@@ -105,7 +105,7 @@ Check Lingt Speaking Assignment Six and complete it before the class.
 2.  Study the Vocabulary (listen to the audio files).
 3.  Read the text on pp. 98–99 (listen to the audio files). Write on your book the answer to the questions in the exercises on pp. 98 and 100–101.
 4.  Read Dialogue on pp. 101–2 (listen to the Audio files).
-5.  Please prepare one question about the text. And watch [This Clip (3x5 记不住，背九九乘法表大哭)](https://www.youtube.com/watch?v=9SpjHiPK7jQ) on Youtube.
+5.  Please prepare one question about the text. And watch {{% resource_link "4e5061f2-7f3a-4b72-a7a7-152272005bce" "This Clip (3x5 记不住，背九九乘法表大哭)" %}} on Youtube.
 
 Study Lesson 15 required characters.
 
